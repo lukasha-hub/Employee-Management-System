@@ -16,13 +16,13 @@
 1. Clone the project
 
 ```bash
-git clone https://github.com/rd003/DotnetReactCrud
+git clone https://github.com/lukasha-hub/Employee-Management-System.git
 ```
 
 2. Change directory
 
 ```bash
-cd DotnetReactCrud
+cd Employee-Management-System
 ```
 
 3. Visit backend project's directory
